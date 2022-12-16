@@ -1,8 +1,8 @@
 package winloader
 
 import (
-	"github.com/jchv/go-winloader/internal/loader"
-	"github.com/jchv/go-winloader/internal/vmem"
+	"github.com/yrpark99/go-winloader/internal/loader"
+	"github.com/yrpark99/go-winloader/internal/vmem"
 )
 
 // NativeMachine is a loader.Machine implementation that uses the native

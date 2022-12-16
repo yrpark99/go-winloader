@@ -3,7 +3,7 @@ package memloader
 import (
 	"strings"
 
-	"github.com/jchv/go-winloader/internal/loader"
+	"github.com/yrpark99/go-winloader/internal/loader"
 )
 
 // Cache implements a memory cache for PE modules.
